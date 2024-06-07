@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(int nu,char*na[])
+{
+  printf("aaaa");
+  return 0;
+}
